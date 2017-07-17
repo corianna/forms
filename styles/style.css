@@ -1,0 +1,45 @@
+.container-style {
+	margin-top: 25px;
+
+}
+.header {
+
+	background-color: #f3e5f5;
+	height: 135px;
+	width: 101%;
+	border: 1px solid purple;
+	padding-left: 10px;
+}
+
+
+h3 {
+	font-family: 'indie flower';
+	font-weight: 700;
+	font-size: 20px;
+
+}
+
+.btn, .btn-large {
+	background-color: #6a1b9a ; 
+}
+ .btn-color {
+	 	background-color: #3f51b5;
+}
+
+.btn-color-2 {
+	background-color: #1e88e5;
+
+}
+
+
+.main-style {
+	background-color: #e3f2fd;
+	height: 50%;
+	width: 98%;
+	padding-left: 25px;
+	border:1px solid blue;
+	margin-right: 25px;
+
+}
+
+/* I couldn't udjust margings to lign up two boxes vertically /*
